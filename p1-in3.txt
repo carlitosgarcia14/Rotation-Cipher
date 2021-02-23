@@ -1,0 +1,30 @@
+Team Stats              OSU     Clemson	
+1st Downs               26      23
+Rushing                 10      4
+Passing                 15      17
+Penalty                 1       2
+3rd Down Conv           5-12    5-12
+4th Down Conv           0-0     0-2
+Total Net Yards         639     444
+Total Plays             72      70
+Avg Gain                8.9     6.3
+Net Yards Rushing       254     44
+Rush Attempts           44      22
+Avg Rush Yards          5.8     2.0
+Yards Passing           385     400
+Comp. - Att.            22-28   33-48
+Yards Per Pass          12.5    7.9
+Penalties - Yards       9-95    3-20
+Touchdowns              7       4
+Rushing TDs             1       2
+Passing TDs             6       2
+Other                   0       0
+Turnovers               1       2
+Fumbles - Lost          1-0     3-1
+Int. Thrown             1       1
+Punts - Avg             4-47.3  5-47.4
+Return Yards            52      0
+Punts - Returns         2-14    0-0
+Kickoffs - Returns      0-0     0-0
+Int. - Returns          1-38    1-0
+Safeties                0       0
